@@ -10,8 +10,11 @@ The dataset [Mobile Sales Data.xlsx](https://github.com/user-attachments/files/2
 () includes the following key fields:
 
 Brand (Apple, Samsung, OnePlus, Vivo)
+
 Mobile Model (e.g., iPhone SE, Galaxy Note 20, OnePlus Nord)
+
 City (e.g., Mumbai, Delhi, Kolkata, etc.)
+
 Sales Amount
 Transaction Count
 Quantity Sold
